@@ -19,7 +19,7 @@ public class Main extends Application {
 			e.printStackTrace();
 		}
 	}
-	
+	//This is a test comment
 	public static void main(String[] args) {
 		launch(args);
 	}
